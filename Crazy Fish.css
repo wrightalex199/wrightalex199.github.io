@@ -1,0 +1,19 @@
+ body {
+    background-color: powderblue;
+  }
+  body {
+    text-align: center;
+    border: 3px solid green;
+  }
+  img.rounded-corners {
+    border-radius: 30px;
+  }
+  img {
+    float: center;
+    width:  350px;
+    height: 350px;
+    object-fit: cover;
+}
+p {
+  font-family: chewy, "Times New Roman" serif;
+}
